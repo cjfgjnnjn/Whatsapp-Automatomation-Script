@@ -1,7 +1,7 @@
 import pyautogui
 import pygetwindow as gw
 import time
-
+# import these libraries to continue with this project
 def open_whatsapp():
     # Click on the Windows button
     pyautogui.press('win')
